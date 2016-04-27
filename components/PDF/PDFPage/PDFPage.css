@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 4em 0;
+  color: #111;
+  font-family: system,-apple-system,\.SFNSText-Regular,San Francisco,Roboto,Segoe UI,Helvetica Neue,Lucida Grande,sans-serif;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+main {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 960px;
+}
+
+header,
+article {
+  margin-bottom: 3em;
+}
+
+h1 {
+  margin-bottom: 2em;
+  font-size: 2em;
+  font-weight: 800;
+}
+
+h2 {
+  margin-bottom: 1em;
+  font-size: 1.5em;
+  font-weight: 700;
+}
